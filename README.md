@@ -1,3 +1,4 @@
+# I used AI for solving this , I don't know Lagrange Interpolation.
 # shamir-secret-sharing
 # Shamir Secret Sharing Recovery
 
